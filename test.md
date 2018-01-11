@@ -5,3 +5,5 @@
 ```
 // code goes here
 ```
+
+### Updates should happen instantaneously in JIRA
